@@ -4,8 +4,8 @@
 - � **Expertise**: Web Apps, Website, Android App, CMS, Project Management  
 - 🔭 **Currently**: Open to new opportunities in Software Engineering  
 - 🌱 **Learning**: [Mention if learning AI/Blockchain/etc.]  
-- 💼 **Portfolio**: [YourWebsite.com](https://mdkshuvo.helpandknowledge.com)  
-- 📫 **Contact**: [Email](mailto:you@email.com) | [LinkedIn](https://linkedin.com/in/...)  
+- 💼 **Portfolio**: [mdkshuvo](https://mdkshuvo.helpandknowledge.com)  
+- 📫 **Contact**: [Email](mailto:mdkshuvo@gmail.com) | [LinkedIn](https://linkedin.com/in/mirkashem)  
 
 ### **🛠️ Tech Stack**  
 - **Frontend**: React, Angular, HTML/CSS, JavaScript  

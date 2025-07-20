@@ -12,8 +12,3 @@
 - **Backend**: Node.js, PHP  
 - **Mobile**: Android, Meteor, Flutter  
 - **CMS**: WordPress, Joomla, Raw PHP, Custom CMS Solutions
-
-### **📈 GitHub Stats**  
-### [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)  
-
-### [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)  

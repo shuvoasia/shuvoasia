@@ -1,5 +1,5 @@
-# 👋 Hi, I’m [Your Name]  
-### **Senior Full-Stack Developer | Web & Mobile Specialist**  
+# 👋 Hi, I’m [Md. Mir Kashem]  
+### **Senior Full-Stack Developer | Web & Mobile Specialist | MySQL | PHP | JavaScript | Node JS | React JS | Meteor | MongoDB**  
 
 - � **Expertise**: Web Apps, Website, Android App, CMS, Project Management  
 - 🔭 **Currently**: Open to new opportunities in Software Engineering  

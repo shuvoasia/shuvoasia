@@ -3,7 +3,7 @@
 
 - � **Expertise**: Web Apps, Website, Android App, CMS, Project Management  
 - 🔭 **Currently**: Open to new opportunities in Software Engineering  
-- 🌱 **Learning**: [Mention if learning AI/Blockchain/etc.]  
+- 🌱 **Learning**: [AI+ Promt Engineering, ACPM 4.0]  
 - 💼 **Portfolio**: [mdkshuvo](https://mdkshuvo.helpandknowledge.com)  
 - 📫 **Contact**: [Email](mailto:mdkshuvo@gmail.com) | [LinkedIn](https://linkedin.com/in/mirkashem)  
 

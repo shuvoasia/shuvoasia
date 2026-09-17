@@ -11,4 +11,4 @@
 - **Frontend**: React, Angular, HTML/CSS, JavaScript  
 - **Backend**: Node.js, PHP  
 - **Mobile**: Android, Meteor, Flutter  
-- **CMS**: WordPress, Joomla, Raw PHP, Custom CMS Solutions
+- **CMS**: WordPress, Joomla, Core PHP, Custom CMS Solutions

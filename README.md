@@ -2,7 +2,7 @@
 ### **Senior Full-Stack Developer | Web & Mobile Specialist | MySQL | PHP | JavaScript | Node JS | React JS | Meteor | MongoDB**  
 
 - � **Expertise**: Web Apps, Website, Android App, CMS, Project Management  
-- 🔭 **Currently**: Open to new opportunities in Software Engineering  
+- 🔭 **Currently**: Open to new opportunities in Senior Software Engineering, Software Architect 
 - 🌱 **Learning**: AI+ Promt Engineering, ACPM 4.0
 - 💼 **Portfolio**: [mdkshuvo](http://helpandknowledge.com/mdkshuvo)  
 - 📫 **Contact**: [Email](mailto:mdkshuvo@gmail.com) | [LinkedIn](https://linkedin.com/in/mirkashem)  

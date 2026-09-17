@@ -4,7 +4,7 @@
 - � **Expertise**: Web Apps, Website, Android App, CMS, Project Management  
 - 🔭 **Currently**: Open to new opportunities in Software Engineering  
 - 🌱 **Learning**: AI+ Promt Engineering, ACPM 4.0
-- 💼 **Portfolio**: [mdkshuvo](https://mdkshuvo.helpandknowledge.com)  
+- 💼 **Portfolio**: [mdkshuvo](http://helpandknowledge.com/mdkshuvo)  
 - 📫 **Contact**: [Email](mailto:mdkshuvo@gmail.com) | [LinkedIn](https://linkedin.com/in/mirkashem)  
 
 ### **🛠️ Tech Stack**  
